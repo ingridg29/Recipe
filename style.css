@@ -1,0 +1,16 @@
+img{
+  height:125px;
+  width:150px;
+}
+
+h1{font-size: 35px;  
+   text-align: center;
+}
+
+body {background-color: lightblue;
+}
+h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+h2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+p{font-family: 'Courier New', Courier, monospace;}
+li {font-family: 'Courier New', Courier, monospace; 
+}
